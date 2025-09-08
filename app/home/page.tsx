@@ -471,7 +471,7 @@ export default function HomePage() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.1 }}
             >
-              I am a final-year Computer Science student with strong expertise in the MERN stack and backend development. I enjoy building scalable applications and solving real-world problems with clean, efficient code.
+              I am a final-year ECE student with strong expertise in the MERN stack and backend development. I enjoy building scalable applications and solving real-world problems with clean, efficient code.
             </motion.p>
 
             <motion.div

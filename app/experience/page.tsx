@@ -62,7 +62,7 @@ export default function ExperiencePage() {
       ),
     },
     {
-      title: "2020-2024",
+      title: "2022-2026",
       content: (
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
           <div className="flex-shrink-0 pt-1">
