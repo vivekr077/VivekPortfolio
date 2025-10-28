@@ -5,7 +5,7 @@ export default function PDFViewer() {
   const [iframeHeight, setIframeHeight] = useState("800px");
   const [isMobile, setIsMobile] = useState(false);
 
-  const resumePath = "/vivek_resume.pdf";
+  const resumePath = 'https://res.cloudinary.com/dtznxn2dt/image/upload/VivekResume.pdf'
 
   useEffect(() => {
     // Set a timeout to consider the PDF loaded after 2 seconds

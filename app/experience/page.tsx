@@ -74,7 +74,7 @@ export default function ExperiencePage() {
             </h3>
             <div className="flex items-center gap-2 text-neutral-400 text-xs sm:text-sm">
               <FiMapPin className="w-3 h-3 sm:w-4 sm:h-4 flex-shrink-0" />
-              <span>Pune, IN</span>
+              <span>Ranchi, IN</span>
             </div>
             <p className="text-neutral-300 text-xs sm:text-sm leading-relaxed">
               Graduated with BE in Computer Engineering, focusing on software
